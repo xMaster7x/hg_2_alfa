@@ -1,4 +1,5 @@
 ---
+
 # Tipo de usuario
 - [ ] Alfa
 - [ ] Bravo 
