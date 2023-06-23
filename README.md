@@ -1,5 +1,6 @@
-# Repositorio Alfa(Mauro)
+# Repositorio Alfa (Mauro)
 ---
-Integrantes
+Integrantes:
 - Bravo(Said)
 - Charlie(Ana)
+---
