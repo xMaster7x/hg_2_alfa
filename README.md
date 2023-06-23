@@ -1,1 +1,4 @@
-# hg_2_alfa
+# Repositorio Alfa(Mauro)
+Integrantes
+Bravo(Said)
+Charlie(Ana)
