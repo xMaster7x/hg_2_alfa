@@ -1,6 +1,4 @@
 ---
-
-PULL_REQUEST_TEMPLATE
 # Tipo de usuario
 - [ ] Alfa
 - [ ] Bravo 
