@@ -1,6 +1,7 @@
-# Repositorio Alfa (Mauro)
+# Repositorio Alfa 
 ---
 Integrantes:
-- Bravo (Said)
-- Charlie (Ana)
+- Alfa (Mauro) Venezuela
+- Bravo (Said) Venezuela
+- Charlie (Ana) Venezuela
 ---
