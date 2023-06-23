@@ -1,5 +1,6 @@
-### PULL_REQUEST_TEMPLATE
-```sh
+---
+
+PULL_REQUEST_TEMPLATE
 # Tipo de usuario
 - [ ] Alfa
 - [ ] Bravo 
@@ -7,9 +8,15 @@
 - [ ] Delta
 - [ ] Echo
 
+# Tecnología
+- [ ] Python 
+- [ ] Markdown
+
 # Seleccione el tipo de actividad
 - [ ] Feature
 - [ ] Hotfix
 - [ ] Refactor
 - [ ] Performance
 - [ ] Testing
+
+---
