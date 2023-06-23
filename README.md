@@ -1,6 +1,6 @@
 # Repositorio Alfa (Mauro)
 ---
 Integrantes:
-- Bravo(Said)
-- Charlie(Ana)
+- Bravo (Said)
+- Charlie (Ana)
 ---
